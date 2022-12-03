@@ -11,7 +11,7 @@
 
 sklearn安装版本：0.24
 
-### 菜菜的机器学习sklearn
+### 菜菜的机器学习sklearn.__version__
 
 * 视频：https://www.bilibili.com/video/BV1vJ41187hk
 * 代码：[菜菜的机器学习sklearn](菜菜的机器学习sklearn)
